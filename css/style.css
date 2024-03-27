@@ -22,6 +22,10 @@ body{
     display: none;
 }
 
+.h1{
+    display: none;
+}
+
 .precio_bc{
     display: flex;
     align-items: center;
