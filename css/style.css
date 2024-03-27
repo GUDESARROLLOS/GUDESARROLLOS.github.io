@@ -151,3 +151,39 @@ button:active{
 
 
 }
+
+@media (max-width:500px){
+    .logo_media{
+        display: flex;
+        justify-content: center;
+    }
+
+    .h1{
+        display: flex;
+        margin-top:50px;
+        justify-content: center;
+        text-align: center;
+        font-size: 25px;
+    }
+
+    .precio_bc{
+        display:none;
+    }
+    
+    .calculator{
+        text-align: center;
+        margin: 80px;
+        display: flex;
+        align-items: center;
+        justify-content:center;
+    }
+
+    #calculator{
+        width: 400px;
+        background-color: #bec3c9;
+        border-radius: 10px;
+        padding: 20px;
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19);
+    }
+
+}
