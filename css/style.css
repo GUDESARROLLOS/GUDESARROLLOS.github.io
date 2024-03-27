@@ -1,6 +1,6 @@
 *{
     margin:0;
-    box-sizing: border-box;
+    padding: 0;
  }
 
 body{
@@ -171,14 +171,14 @@ button:active{
     }
     
     .calculator{
-        text-align: center;
-        margin: 80px;
         display: flex;
+        text-align: center;
         align-items: center;
         justify-content:center;
     }
 
     #calculator{
+        display: flex;
         width: 60%;
         height: 20%;
         background-color: #bec3c9;
