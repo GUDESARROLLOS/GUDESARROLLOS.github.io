@@ -178,7 +178,7 @@ button:active{
     }
 
     #calculator{
-        display: flex;
+       
         width: 60%;
         height: 20%;
         background-color: #bec3c9;
